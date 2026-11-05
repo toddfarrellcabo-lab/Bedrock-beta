@@ -113,6 +113,7 @@ function playYabba(){
  button.classList.add('playing');button.setAttribute('aria-pressed','true');
  audio.onended=reset;
  audio.onerror=()=>{reset();alert('Sound file could not be loaded: assets/yabba-dabba-doo.mp3')};
+ audio.volume = 0.5;
  const result=audio.play();
  if(result&&typeof result.catch==='function')result.catch(()=>{reset();alert('Unable to play audio. Check browser permissions and the MP3 file.')});
 }
