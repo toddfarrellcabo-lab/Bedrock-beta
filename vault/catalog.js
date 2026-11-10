@@ -4,7 +4,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "creative brief template",
     "category": "Documents",
     "description": "documents · TXT asset",
-    "path": "vault/files/documents/creative-brief-template.txt",
+    "path": "vault/documents/creative-brief-template.txt",
     "type": "TXT",
     "preview": false,
     "demo": false
@@ -14,7 +14,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "export checklist",
     "category": "Documents",
     "description": "documents · TXT asset",
-    "path": "vault/files/documents/export-checklist.txt",
+    "path": "vault/documents/export-checklist.txt",
     "type": "TXT",
     "preview": false,
     "demo": false
@@ -24,7 +24,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "bedrock colors",
     "category": "Brand Assets",
     "description": "guides · SVG asset",
-    "path": "vault/files/guides/bedrock-colors.svg",
+    "path": "vault/guides/bedrock-colors.svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -34,7 +34,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight Brand Guidelines updated 4 26",
     "category": "Brand Assets",
     "description": "guides · PDF asset",
-    "path": "vault/files/guides/Sparklight_Brand_Guidelines_updated_4-26.pdf",
+    "path": "vault/guides/Sparklight_Brand_Guidelines_updated_4-26.pdf",
     "type": "PDF",
     "preview": true,
     "demo": false
@@ -44,7 +44,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight Multi Gig Visual Positioning Guide 11282023",
     "category": "Brand Assets",
     "description": "guides · PDF asset",
-    "path": "vault/files/guides/Sparklight_Multi-Gig_Visual-Positioning-Guide_11282023.pdf",
+    "path": "vault/guides/Sparklight_Multi-Gig_Visual-Positioning-Guide_11282023.pdf",
     "type": "PDF",
     "preview": true,
     "demo": false
@@ -54,7 +54,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (10)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (10).svg",
+    "path": "vault/icons/Icons_ (10).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -64,7 +64,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (11)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (11).svg",
+    "path": "vault/icons/Icons_ (11).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -74,7 +74,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (12)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (12).svg",
+    "path": "vault/icons/Icons_ (12).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -84,7 +84,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (13)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (13).svg",
+    "path": "vault/icons/Icons_ (13).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -94,7 +94,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (14)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (14).svg",
+    "path": "vault/icons/Icons_ (14).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -104,7 +104,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (15)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (15).svg",
+    "path": "vault/icons/Icons_ (15).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -114,7 +114,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (16)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (16).svg",
+    "path": "vault/icons/Icons_ (16).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -124,7 +124,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (17)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (17).svg",
+    "path": "vault/icons/Icons_ (17).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -134,7 +134,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (18)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (18).svg",
+    "path": "vault/icons/Icons_ (18).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -144,7 +144,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (19)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (19).svg",
+    "path": "vault/icons/Icons_ (19).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -154,7 +154,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (20)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (20).svg",
+    "path": "vault/icons/Icons_ (20).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -164,7 +164,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (21)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (21).svg",
+    "path": "vault/icons/Icons_ (21).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -174,7 +174,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (22)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (22).svg",
+    "path": "vault/icons/Icons_ (22).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -184,7 +184,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (23)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (23).svg",
+    "path": "vault/icons/Icons_ (23).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -194,7 +194,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (24)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (24).svg",
+    "path": "vault/icons/Icons_ (24).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -204,7 +204,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (25)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (25).svg",
+    "path": "vault/icons/Icons_ (25).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -214,7 +214,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (26)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (26).svg",
+    "path": "vault/icons/Icons_ (26).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -224,7 +224,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (27)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (27).svg",
+    "path": "vault/icons/Icons_ (27).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -234,7 +234,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (28)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (28).svg",
+    "path": "vault/icons/Icons_ (28).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -244,7 +244,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (29)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (29).svg",
+    "path": "vault/icons/Icons_ (29).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -254,7 +254,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (30)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (30).svg",
+    "path": "vault/icons/Icons_ (30).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -264,7 +264,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (31)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (31).svg",
+    "path": "vault/icons/Icons_ (31).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -274,7 +274,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (32)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (32).svg",
+    "path": "vault/icons/Icons_ (32).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -284,7 +284,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (8)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (8).svg",
+    "path": "vault/icons/Icons_ (8).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -294,7 +294,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Icons  (9)",
     "category": "Brand Assets",
     "description": "icons · SVG asset",
-    "path": "vault/files/icons/Icons_ (9).svg",
+    "path": "vault/icons/Icons_ (9).svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -304,7 +304,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "bedrock horizontal",
     "category": "Brand Assets",
     "description": "logos · SVG asset",
-    "path": "vault/files/logos/bedrock-horizontal.svg",
+    "path": "vault/logos/bedrock-horizontal.svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -314,7 +314,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "bedrock symbol",
     "category": "Brand Assets",
     "description": "logos · SVG asset",
-    "path": "vault/files/logos/bedrock-symbol.svg",
+    "path": "vault/logos/bedrock-symbol.svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -324,7 +324,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/-Purple · AI asset",
-    "path": "vault/files/logos/sparklight/For-Digital/-Purple/Sparklight(R)-purple-rgb.ai",
+    "path": "vault/logos/sparklight/For-Digital/-Purple/Sparklight(R)-purple-rgb.ai",
     "type": "AI",
     "preview": false,
     "demo": false
@@ -334,7 +334,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/-Purple · EPS asset",
-    "path": "vault/files/logos/sparklight/For-Digital/-Purple/Sparklight(R)-purple-rgb.eps",
+    "path": "vault/logos/sparklight/For-Digital/-Purple/Sparklight(R)-purple-rgb.eps",
     "type": "EPS",
     "preview": false,
     "demo": false
@@ -344,7 +344,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/-Purple · JPG asset",
-    "path": "vault/files/logos/sparklight/For-Digital/-Purple/Sparklight(R)-purple-rgb.jpg",
+    "path": "vault/logos/sparklight/For-Digital/-Purple/Sparklight(R)-purple-rgb.jpg",
     "type": "JPG",
     "preview": true,
     "demo": false
@@ -354,7 +354,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/-Purple · PDF asset",
-    "path": "vault/files/logos/sparklight/For-Digital/-Purple/Sparklight(R)-purple-rgb.pdf",
+    "path": "vault/logos/sparklight/For-Digital/-Purple/Sparklight(R)-purple-rgb.pdf",
     "type": "PDF",
     "preview": true,
     "demo": false
@@ -364,7 +364,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/-Purple · PNG asset",
-    "path": "vault/files/logos/sparklight/For-Digital/-Purple/Sparklight(R)-purple-rgb.png",
+    "path": "vault/logos/sparklight/For-Digital/-Purple/Sparklight(R)-purple-rgb.png",
     "type": "PNG",
     "preview": true,
     "demo": false
@@ -374,7 +374,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/-Purple · SVG asset",
-    "path": "vault/files/logos/sparklight/For-Digital/-Purple/Sparklight(R)-purple-rgb.svg",
+    "path": "vault/logos/sparklight/For-Digital/-Purple/Sparklight(R)-purple-rgb.svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -384,7 +384,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/-Purple · ZIP asset",
-    "path": "vault/files/logos/sparklight/For-Digital/-Purple/Sparklight(R)-purple-rgb.zip",
+    "path": "vault/logos/sparklight/For-Digital/-Purple/Sparklight(R)-purple-rgb.zip",
     "type": "ZIP",
     "preview": false,
     "demo": false
@@ -394,7 +394,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) black rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/Black · AI asset",
-    "path": "vault/files/logos/sparklight/For-Digital/Black/Sparklight(R)-black-rgb.ai",
+    "path": "vault/logos/sparklight/For-Digital/Black/Sparklight(R)-black-rgb.ai",
     "type": "AI",
     "preview": false,
     "demo": false
@@ -404,7 +404,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) black rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/Black · EPS asset",
-    "path": "vault/files/logos/sparklight/For-Digital/Black/Sparklight(R)-black-rgb.eps",
+    "path": "vault/logos/sparklight/For-Digital/Black/Sparklight(R)-black-rgb.eps",
     "type": "EPS",
     "preview": false,
     "demo": false
@@ -414,7 +414,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) black rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/Black · JPG asset",
-    "path": "vault/files/logos/sparklight/For-Digital/Black/Sparklight(R)-black-rgb.jpg",
+    "path": "vault/logos/sparklight/For-Digital/Black/Sparklight(R)-black-rgb.jpg",
     "type": "JPG",
     "preview": true,
     "demo": false
@@ -424,7 +424,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) black rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/Black · PDF asset",
-    "path": "vault/files/logos/sparklight/For-Digital/Black/Sparklight(R)-black-rgb.pdf",
+    "path": "vault/logos/sparklight/For-Digital/Black/Sparklight(R)-black-rgb.pdf",
     "type": "PDF",
     "preview": true,
     "demo": false
@@ -434,7 +434,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) black rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/Black · PNG asset",
-    "path": "vault/files/logos/sparklight/For-Digital/Black/Sparklight(R)-black-rgb.png",
+    "path": "vault/logos/sparklight/For-Digital/Black/Sparklight(R)-black-rgb.png",
     "type": "PNG",
     "preview": true,
     "demo": false
@@ -444,7 +444,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) black rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/Black · SVG asset",
-    "path": "vault/files/logos/sparklight/For-Digital/Black/Sparklight(R)-black-rgb.svg",
+    "path": "vault/logos/sparklight/For-Digital/Black/Sparklight(R)-black-rgb.svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -454,7 +454,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) gray rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/Gray · AI asset",
-    "path": "vault/files/logos/sparklight/For-Digital/Gray/Sparklight(R)-gray-rgb.ai",
+    "path": "vault/logos/sparklight/For-Digital/Gray/Sparklight(R)-gray-rgb.ai",
     "type": "AI",
     "preview": false,
     "demo": false
@@ -464,7 +464,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) gray rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/Gray · EPS asset",
-    "path": "vault/files/logos/sparklight/For-Digital/Gray/Sparklight(R)-gray-rgb.eps",
+    "path": "vault/logos/sparklight/For-Digital/Gray/Sparklight(R)-gray-rgb.eps",
     "type": "EPS",
     "preview": false,
     "demo": false
@@ -474,7 +474,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) gray rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/Gray · JPG asset",
-    "path": "vault/files/logos/sparklight/For-Digital/Gray/Sparklight(R)-gray-rgb.jpg",
+    "path": "vault/logos/sparklight/For-Digital/Gray/Sparklight(R)-gray-rgb.jpg",
     "type": "JPG",
     "preview": true,
     "demo": false
@@ -484,7 +484,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) gray rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/Gray · PDF asset",
-    "path": "vault/files/logos/sparklight/For-Digital/Gray/Sparklight(R)-gray-rgb.pdf",
+    "path": "vault/logos/sparklight/For-Digital/Gray/Sparklight(R)-gray-rgb.pdf",
     "type": "PDF",
     "preview": true,
     "demo": false
@@ -494,7 +494,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) gray rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/Gray · PNG asset",
-    "path": "vault/files/logos/sparklight/For-Digital/Gray/Sparklight(R)-gray-rgb.png",
+    "path": "vault/logos/sparklight/For-Digital/Gray/Sparklight(R)-gray-rgb.png",
     "type": "PNG",
     "preview": true,
     "demo": false
@@ -504,7 +504,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) gray rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/Gray · SVG asset",
-    "path": "vault/files/logos/sparklight/For-Digital/Gray/Sparklight(R)-gray-rgb.svg",
+    "path": "vault/logos/sparklight/For-Digital/Gray/Sparklight(R)-gray-rgb.svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -514,7 +514,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) reverse rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/Reverse · AI asset",
-    "path": "vault/files/logos/sparklight/For-Digital/Reverse/Sparklight(R)-reverse-rgb.ai",
+    "path": "vault/logos/sparklight/For-Digital/Reverse/Sparklight(R)-reverse-rgb.ai",
     "type": "AI",
     "preview": false,
     "demo": false
@@ -524,7 +524,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) reverse rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/Reverse · EPS asset",
-    "path": "vault/files/logos/sparklight/For-Digital/Reverse/Sparklight(R)-reverse-rgb.eps",
+    "path": "vault/logos/sparklight/For-Digital/Reverse/Sparklight(R)-reverse-rgb.eps",
     "type": "EPS",
     "preview": false,
     "demo": false
@@ -534,7 +534,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) reverse rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/Reverse · PDF asset",
-    "path": "vault/files/logos/sparklight/For-Digital/Reverse/Sparklight(R)-reverse-rgb.pdf",
+    "path": "vault/logos/sparklight/For-Digital/Reverse/Sparklight(R)-reverse-rgb.pdf",
     "type": "PDF",
     "preview": true,
     "demo": false
@@ -544,7 +544,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) reverse rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/Reverse · PNG asset",
-    "path": "vault/files/logos/sparklight/For-Digital/Reverse/Sparklight(R)-reverse-rgb.png",
+    "path": "vault/logos/sparklight/For-Digital/Reverse/Sparklight(R)-reverse-rgb.png",
     "type": "PNG",
     "preview": true,
     "demo": false
@@ -554,7 +554,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) reverse rgb",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Digital/Reverse · SVG asset",
-    "path": "vault/files/logos/sparklight/For-Digital/Reverse/Sparklight(R)-reverse-rgb.svg",
+    "path": "vault/logos/sparklight/For-Digital/Reverse/Sparklight(R)-reverse-rgb.svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -564,7 +564,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) brightpurple cmyk AWFY",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/-Purple/CMYK · EPS asset",
-    "path": "vault/files/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-brightpurple-cmyk_AWFY.eps",
+    "path": "vault/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-brightpurple-cmyk_AWFY.eps",
     "type": "EPS",
     "preview": false,
     "demo": false
@@ -574,7 +574,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple AWFY",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/-Purple/CMYK · ZIP asset",
-    "path": "vault/files/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-AWFY.zip",
+    "path": "vault/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-AWFY.zip",
     "type": "ZIP",
     "preview": false,
     "demo": false
@@ -584,7 +584,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/-Purple/CMYK · AI asset",
-    "path": "vault/files/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk.ai",
+    "path": "vault/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk.ai",
     "type": "AI",
     "preview": false,
     "demo": false
@@ -594,7 +594,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/-Purple/CMYK · DOCX asset",
-    "path": "vault/files/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk.docx",
+    "path": "vault/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk.docx",
     "type": "DOCX",
     "preview": false,
     "demo": false
@@ -604,7 +604,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/-Purple/CMYK · EPS asset",
-    "path": "vault/files/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk.eps",
+    "path": "vault/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk.eps",
     "type": "EPS",
     "preview": false,
     "demo": false
@@ -614,7 +614,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/-Purple/CMYK · JPG asset",
-    "path": "vault/files/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk.jpg",
+    "path": "vault/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk.jpg",
     "type": "JPG",
     "preview": true,
     "demo": false
@@ -624,7 +624,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/-Purple/CMYK · PDF asset",
-    "path": "vault/files/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk.pdf",
+    "path": "vault/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk.pdf",
     "type": "PDF",
     "preview": true,
     "demo": false
@@ -634,7 +634,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/-Purple/CMYK · PNG asset",
-    "path": "vault/files/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk.png",
+    "path": "vault/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk.png",
     "type": "PNG",
     "preview": true,
     "demo": false
@@ -644,7 +644,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/-Purple/CMYK · ZIP asset",
-    "path": "vault/files/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk.zip",
+    "path": "vault/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk.zip",
     "type": "ZIP",
     "preview": false,
     "demo": false
@@ -654,7 +654,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple cmyk AWFY",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/-Purple/CMYK · EPS asset",
-    "path": "vault/files/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk_AWFY.eps",
+    "path": "vault/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk_AWFY.eps",
     "type": "EPS",
     "preview": false,
     "demo": false
@@ -664,7 +664,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple cmyk AWFY",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/-Purple/CMYK · PDF asset",
-    "path": "vault/files/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk_AWFY.pdf",
+    "path": "vault/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk_AWFY.pdf",
     "type": "PDF",
     "preview": true,
     "demo": false
@@ -674,7 +674,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple cmyk AWFY",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/-Purple/CMYK · PNG asset",
-    "path": "vault/files/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk_AWFY.png",
+    "path": "vault/logos/sparklight/For-Print/-Purple/CMYK/Sparklight(R)-purple-cmyk_AWFY.png",
     "type": "PNG",
     "preview": true,
     "demo": false
@@ -684,7 +684,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple pantone",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/-Purple/Pantone · AI asset",
-    "path": "vault/files/logos/sparklight/For-Print/-Purple/Pantone/Sparklight(R)-purple-pantone.ai",
+    "path": "vault/logos/sparklight/For-Print/-Purple/Pantone/Sparklight(R)-purple-pantone.ai",
     "type": "AI",
     "preview": false,
     "demo": false
@@ -694,7 +694,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple pantone",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/-Purple/Pantone · EPS asset",
-    "path": "vault/files/logos/sparklight/For-Print/-Purple/Pantone/Sparklight(R)-purple-pantone.eps",
+    "path": "vault/logos/sparklight/For-Print/-Purple/Pantone/Sparklight(R)-purple-pantone.eps",
     "type": "EPS",
     "preview": false,
     "demo": false
@@ -704,7 +704,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple pantone",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/-Purple/Pantone · JPG asset",
-    "path": "vault/files/logos/sparklight/For-Print/-Purple/Pantone/Sparklight(R)-purple-pantone.jpg",
+    "path": "vault/logos/sparklight/For-Print/-Purple/Pantone/Sparklight(R)-purple-pantone.jpg",
     "type": "JPG",
     "preview": true,
     "demo": false
@@ -714,7 +714,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple pantone",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/-Purple/Pantone · PDF asset",
-    "path": "vault/files/logos/sparklight/For-Print/-Purple/Pantone/Sparklight(R)-purple-pantone.pdf",
+    "path": "vault/logos/sparklight/For-Print/-Purple/Pantone/Sparklight(R)-purple-pantone.pdf",
     "type": "PDF",
     "preview": true,
     "demo": false
@@ -724,7 +724,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) purple pantone",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/-Purple/Pantone · PNG asset",
-    "path": "vault/files/logos/sparklight/For-Print/-Purple/Pantone/Sparklight(R)-purple-pantone.png",
+    "path": "vault/logos/sparklight/For-Print/-Purple/Pantone/Sparklight(R)-purple-pantone.png",
     "type": "PNG",
     "preview": true,
     "demo": false
@@ -734,7 +734,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) black cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Black · AI asset",
-    "path": "vault/files/logos/sparklight/For-Print/Black/Sparklight(R)-black-cmyk.ai",
+    "path": "vault/logos/sparklight/For-Print/Black/Sparklight(R)-black-cmyk.ai",
     "type": "AI",
     "preview": false,
     "demo": false
@@ -744,7 +744,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) black cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Black · EPS asset",
-    "path": "vault/files/logos/sparklight/For-Print/Black/Sparklight(R)-black-cmyk.eps",
+    "path": "vault/logos/sparklight/For-Print/Black/Sparklight(R)-black-cmyk.eps",
     "type": "EPS",
     "preview": false,
     "demo": false
@@ -754,7 +754,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) black cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Black · JPG asset",
-    "path": "vault/files/logos/sparklight/For-Print/Black/Sparklight(R)-black-cmyk.jpg",
+    "path": "vault/logos/sparklight/For-Print/Black/Sparklight(R)-black-cmyk.jpg",
     "type": "JPG",
     "preview": true,
     "demo": false
@@ -764,7 +764,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) black cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Black · PDF asset",
-    "path": "vault/files/logos/sparklight/For-Print/Black/Sparklight(R)-black-cmyk.pdf",
+    "path": "vault/logos/sparklight/For-Print/Black/Sparklight(R)-black-cmyk.pdf",
     "type": "PDF",
     "preview": true,
     "demo": false
@@ -774,7 +774,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) black cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Black · PNG asset",
-    "path": "vault/files/logos/sparklight/For-Print/Black/Sparklight(R)-black-cmyk.png",
+    "path": "vault/logos/sparklight/For-Print/Black/Sparklight(R)-black-cmyk.png",
     "type": "PNG",
     "preview": true,
     "demo": false
@@ -784,7 +784,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) gray cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Gray · AI asset",
-    "path": "vault/files/logos/sparklight/For-Print/Gray/Sparklight(R)-gray-cmyk.ai",
+    "path": "vault/logos/sparklight/For-Print/Gray/Sparklight(R)-gray-cmyk.ai",
     "type": "AI",
     "preview": false,
     "demo": false
@@ -794,7 +794,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) gray cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Gray · EPS asset",
-    "path": "vault/files/logos/sparklight/For-Print/Gray/Sparklight(R)-gray-cmyk.eps",
+    "path": "vault/logos/sparklight/For-Print/Gray/Sparklight(R)-gray-cmyk.eps",
     "type": "EPS",
     "preview": false,
     "demo": false
@@ -804,7 +804,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) gray cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Gray · JPG asset",
-    "path": "vault/files/logos/sparklight/For-Print/Gray/Sparklight(R)-gray-cmyk.jpg",
+    "path": "vault/logos/sparklight/For-Print/Gray/Sparklight(R)-gray-cmyk.jpg",
     "type": "JPG",
     "preview": true,
     "demo": false
@@ -814,7 +814,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) gray cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Gray · PDF asset",
-    "path": "vault/files/logos/sparklight/For-Print/Gray/Sparklight(R)-gray-cmyk.pdf",
+    "path": "vault/logos/sparklight/For-Print/Gray/Sparklight(R)-gray-cmyk.pdf",
     "type": "PDF",
     "preview": true,
     "demo": false
@@ -824,7 +824,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) gray cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Gray · PNG asset",
-    "path": "vault/files/logos/sparklight/For-Print/Gray/Sparklight(R)-gray-cmyk.png",
+    "path": "vault/logos/sparklight/For-Print/Gray/Sparklight(R)-gray-cmyk.png",
     "type": "PNG",
     "preview": true,
     "demo": false
@@ -834,7 +834,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) reverse AWFY cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Reverse · PNG asset",
-    "path": "vault/files/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-AWFY-cmyk.png",
+    "path": "vault/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-AWFY-cmyk.png",
     "type": "PNG",
     "preview": true,
     "demo": false
@@ -844,7 +844,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) reverse AWFY",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Reverse · ZIP asset",
-    "path": "vault/files/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-AWFY.zip",
+    "path": "vault/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-AWFY.zip",
     "type": "ZIP",
     "preview": false,
     "demo": false
@@ -854,7 +854,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) reverse cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Reverse · AI asset",
-    "path": "vault/files/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-cmyk.ai",
+    "path": "vault/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-cmyk.ai",
     "type": "AI",
     "preview": false,
     "demo": false
@@ -864,7 +864,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) reverse cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Reverse · EPS asset",
-    "path": "vault/files/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-cmyk.eps",
+    "path": "vault/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-cmyk.eps",
     "type": "EPS",
     "preview": false,
     "demo": false
@@ -874,7 +874,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) reverse cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Reverse · PDF asset",
-    "path": "vault/files/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-cmyk.pdf",
+    "path": "vault/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-cmyk.pdf",
     "type": "PDF",
     "preview": true,
     "demo": false
@@ -884,7 +884,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) reverse cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Reverse · PNG asset",
-    "path": "vault/files/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-cmyk.png",
+    "path": "vault/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-cmyk.png",
     "type": "PNG",
     "preview": true,
     "demo": false
@@ -894,7 +894,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) reverse cmyk",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Reverse · ZIP asset",
-    "path": "vault/files/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-cmyk.zip",
+    "path": "vault/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-cmyk.zip",
     "type": "ZIP",
     "preview": false,
     "demo": false
@@ -904,7 +904,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) reverse cmyk AWFY",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Reverse · EPS asset",
-    "path": "vault/files/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-cmyk_AWFY.eps",
+    "path": "vault/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-cmyk_AWFY.eps",
     "type": "EPS",
     "preview": false,
     "demo": false
@@ -914,7 +914,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight(R) reverse cmyk AWFY",
     "category": "Brand Assets",
     "description": "logos/sparklight/For-Print/Reverse · PDF asset",
-    "path": "vault/files/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-cmyk_AWFY.pdf",
+    "path": "vault/logos/sparklight/For-Print/Reverse/Sparklight(R)-reverse-cmyk_AWFY.pdf",
     "type": "PDF",
     "preview": true,
     "demo": false
@@ -924,7 +924,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "sparkstone badge",
     "category": "Brand Assets",
     "description": "logos · SVG asset",
-    "path": "vault/files/logos/sparkstone-badge.svg",
+    "path": "vault/logos/sparkstone-badge.svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -934,7 +934,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight 110624 1309 screen edit",
     "category": "Brand Assets",
     "description": "photography · JPG asset",
-    "path": "vault/files/photography/Sparklight_110624_1309_screen-edit.jpg",
+    "path": "vault/photography/Sparklight_110624_1309_screen-edit.jpg",
     "type": "JPG",
     "preview": true,
     "demo": false
@@ -944,7 +944,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight 110624 1334 screen edit",
     "category": "Brand Assets",
     "description": "photography · JPG asset",
-    "path": "vault/files/photography/Sparklight_110624_1334_screen-edit.jpg",
+    "path": "vault/photography/Sparklight_110624_1334_screen-edit.jpg",
     "type": "JPG",
     "preview": true,
     "demo": false
@@ -954,7 +954,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight 110624 1335 screen edit",
     "category": "Brand Assets",
     "description": "photography · JPG asset",
-    "path": "vault/files/photography/Sparklight_110624_1335_screen-edit.jpg",
+    "path": "vault/photography/Sparklight_110624_1335_screen-edit.jpg",
     "type": "JPG",
     "preview": true,
     "demo": false
@@ -964,7 +964,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight 110624 1341 screen edit",
     "category": "Brand Assets",
     "description": "photography · JPG asset",
-    "path": "vault/files/photography/Sparklight_110624_1341_screen-edit.jpg",
+    "path": "vault/photography/Sparklight_110624_1341_screen-edit.jpg",
     "type": "JPG",
     "preview": true,
     "demo": false
@@ -974,7 +974,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight 110624 1352 screen edit",
     "category": "Brand Assets",
     "description": "photography · JPG asset",
-    "path": "vault/files/photography/Sparklight_110624_1352_screen-edit.jpg",
+    "path": "vault/photography/Sparklight_110624_1352_screen-edit.jpg",
     "type": "JPG",
     "preview": true,
     "demo": false
@@ -984,7 +984,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight 110624 1355 screen edit",
     "category": "Brand Assets",
     "description": "photography · JPG asset",
-    "path": "vault/files/photography/Sparklight_110624_1355_screen-edit.jpg",
+    "path": "vault/photography/Sparklight_110624_1355_screen-edit.jpg",
     "type": "JPG",
     "preview": true,
     "demo": false
@@ -994,7 +994,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight 110624 2778   2025 01 02T145313.894574Z",
     "category": "Brand Assets",
     "description": "photography · JPG asset",
-    "path": "vault/files/photography/Sparklight_110624_2778 - 2025-01-02T145313.894574Z.jpg",
+    "path": "vault/photography/Sparklight_110624_2778 - 2025-01-02T145313.894574Z.jpg",
     "type": "JPG",
     "preview": true,
     "demo": false
@@ -1004,7 +1004,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight 110624 2783   2025 01 02T145313.901087Z",
     "category": "Brand Assets",
     "description": "photography · JPG asset",
-    "path": "vault/files/photography/Sparklight_110624_2783 - 2025-01-02T145313.901087Z.jpg",
+    "path": "vault/photography/Sparklight_110624_2783 - 2025-01-02T145313.901087Z.jpg",
     "type": "JPG",
     "preview": true,
     "demo": false
@@ -1014,7 +1014,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight 110624 4200",
     "category": "Brand Assets",
     "description": "photography · JPG asset",
-    "path": "vault/files/photography/Sparklight_110624_4200.jpg",
+    "path": "vault/photography/Sparklight_110624_4200.jpg",
     "type": "JPG",
     "preview": true,
     "demo": false
@@ -1024,7 +1024,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Sparklight 110624 4791 cleaned",
     "category": "Brand Assets",
     "description": "photography · JPG asset",
-    "path": "vault/files/photography/Sparklight_110624_4791_cleaned.jpg",
+    "path": "vault/photography/Sparklight_110624_4791_cleaned.jpg",
     "type": "JPG",
     "preview": true,
     "demo": false
@@ -1034,7 +1034,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "display 300x250",
     "category": "Templates",
     "description": "templates · SVG asset",
-    "path": "vault/files/templates/display-300x250.svg",
+    "path": "vault/templates/display-300x250.svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -1044,7 +1044,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "flyer 8.5x11",
     "category": "Templates",
     "description": "templates · SVG asset",
-    "path": "vault/files/templates/flyer-8.5x11.svg",
+    "path": "vault/templates/flyer-8.5x11.svg",
     "type": "SVG",
     "preview": true,
     "demo": false
@@ -1054,7 +1054,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "Local Breakout",
     "category": "Templates",
     "description": "templates · INDT asset",
-    "path": "vault/files/templates/Local_Breakout.indt",
+    "path": "vault/templates/Local_Breakout.indt",
     "type": "INDT",
     "preview": false,
     "demo": false
@@ -1064,7 +1064,7 @@ window.BEDROCK_VAULT_ITEMS = [
     "title": "social 4x5",
     "category": "Templates",
     "description": "templates · SVG asset",
-    "path": "vault/files/templates/social-4x5.svg",
+    "path": "vault/templates/social-4x5.svg",
     "type": "SVG",
     "preview": true,
     "demo": false
