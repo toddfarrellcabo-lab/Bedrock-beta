@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4a1c74"/><stop offset="1" stop-color="#3278bf"/></linearGradient></defs>
+<rect width="900" height="600" fill="#f8f8fa"/><rect x="24" y="24" width="852" height="552" rx="20" fill="url(#bg)"/>
+<path d="M25 470 Q230 365 480 470 T876 460 V576 H25Z" fill="#ffffff" opacity=".10"/>
+<rect x="65" y="64" width="770" height="472" rx="12" fill="none" stroke="#ffffff" stroke-opacity=".28" stroke-width="2"/>
+<text x="89" y="118" font-family="Arial,sans-serif" font-weight="bold" font-size="32" fill="white">/ Sparklight</text>
+<rect x="89" y="155" width="155" height="6" rx="3" fill="#a5d7f4"/>
+<text x="89" y="274" font-family="Arial,sans-serif" font-weight="900" font-size="65" fill="white">HELLO, NEIGHBORS.</text>
+<text x="91" y="331" font-family="Arial,sans-serif" font-size="27" fill="#f2eaf7">See you around town.</text>
+<text x="91" y="390" font-family="Arial,sans-serif" font-size="18" fill="white" opacity=".82">Community event flyer</text>
+<circle cx="650" cy="260" r="47" fill="white" opacity=".9"/><circle cx="765" cy="270" r="42" fill="white" opacity=".65"/><path d="M568 423 Q570 323 650 323 Q731 323 732 423Z" fill="white" opacity=".8"/><path d="M715 423 Q715 340 768 340 Q825 340 830 423Z" fill="white" opacity=".5"/>
+<rect x="89" y="465" width="220" height="45" rx="7" fill="white" opacity=".95"/>
+<text x="105" y="494" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="#4a1c74">PRINT FLYER · CONCEPT</text>
+<text x="590" y="519" font-family="Arial,sans-serif" font-size="15" fill="white" opacity=".9">SAMPLE PROOF · NOT FINAL</text>
+</svg>
