@@ -1,0 +1,1 @@
+Sparklight-inspired conceptual proof previews for My Dock. All six files are local SVGs in dock/previews. Replace each BR-XXXX.svg to customize. These are sample concepts, not approved offers or official campaign creative.
