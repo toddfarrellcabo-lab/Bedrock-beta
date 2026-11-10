@@ -1,0 +1,11 @@
+BEDROCK DEMO — EXPORT CHECKLIST
+
+[ ] Correct size and bleed
+[ ] Fonts and links checked
+[ ] Required legal copy included
+[ ] Correct color profile
+[ ] Filename follows naming convention
+[ ] Proof approved
+[ ] Final export reviewed
+
+DEMO ONLY

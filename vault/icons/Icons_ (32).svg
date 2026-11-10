@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-9f92ad74-fff5-4c50-8a83-4e0a01c6b61c" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4.48 6.33">
+  <defs>
+    <style>
+      .uuid-b2adcb49-be62-47ed-9db1-81d8f10315f2 {
+        fill: #b3b3b3;
+      }
+    </style>
+  </defs>
+  <g id="uuid-05aeaccc-4d02-449a-b078-0bcde1ded1f9" data-name="0965">
+    <g>
+      <g>
+        <path class="uuid-b2adcb49-be62-47ed-9db1-81d8f10315f2" d="M2.38,4.16h-.28c-.65,0-1.18-.49-1.18-1.09v-1.99C.92.49,1.45,0,2.1,0h.28c.65,0,1.18.49,1.18,1.09v1.99c0,.6-.53,1.09-1.18,1.09ZM2.1.26c-.51,0-.92.37-.92.83v1.99c0,.46.41.83.92.83h.28c.51,0,.92-.37.92-.83v-1.99c0-.46-.41-.83-.92-.83h-.28Z"/>
+        <rect class="uuid-b2adcb49-be62-47ed-9db1-81d8f10315f2" x="1.01" y="6.08" width="2.45" height=".26"/>
+      </g>
+      <path class="uuid-b2adcb49-be62-47ed-9db1-81d8f10315f2" d="M2.24,5.28c-1.24,0-2.24-1.01-2.24-2.24h.26c0,1.09.89,1.98,1.98,1.98s1.98-.89,1.98-1.98h.26c0,1.24-1.01,2.24-2.24,2.24Z"/>
+      <rect class="uuid-b2adcb49-be62-47ed-9db1-81d8f10315f2" x="2.11" y="5.25" width=".26" height="1.04"/>
+      <rect class="uuid-b2adcb49-be62-47ed-9db1-81d8f10315f2" x="1.08" y="1.94" width="2.32" height=".26"/>
+    </g>
+  </g>
+</svg>
